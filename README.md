@@ -57,8 +57,8 @@ This section covers how to preprocess natural language text, create word embeddi
 
 This project replicates the model used in the PubMed 200k paper to classify different sequences in medical abstracts
 
-## 10_time_series_fundamentals
+## Time series fundamentals
 
 Diagnosing time series problems, preparing data for time series neural networks, understanding and using different evaluation methods, and building time series forecasting models with RNNs and CNNs.
 
-## 11_milestone_project
+## Milestone project
